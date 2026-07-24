@@ -9,7 +9,7 @@
 ## Топ URL по ошибкам 500
 
 - `/api/checkout` — 308 запросов
-- `/api/payment` — 21 запрос
+- `/api/payment` — 21 запросов
 - `/api/profile` — 12 запросов
 - `/api/cart/add` — 10 запросов
 - `/api/orders` — 9 запросов
